@@ -11,14 +11,8 @@ Link zum gehsoteten Code mit Git - https://raw.githack.com/Digid0t/DigiDot_1/mai
 ____
 
 Eine interaktive Single-Page-Application (SPA), die als kuratierte Bibliothek für Lern- und Wissensserien für Kinder dient. Die gesamte Anwendung ist in einer einzigen HTML-Datei gebündelt und nutzt reines (Vanilla) JavaScript für die Funktionalität.
+____
 
-<br>
-
-<!-- FÜGE HIER EINEN SCREENSHOT ODER EIN GIF DEINER ANWENDUNG EIN -->
-![Lern-Oase Screenshot](<img width="687" height="366" alt="grafik" src="https://github.com/user-attachments/assets/df9d19ef-2ecf-4414-9599-ef5900abc55f" />
-)
-
----
 
 ## ✨ Hauptmerkmale
 
