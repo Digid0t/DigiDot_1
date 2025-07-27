@@ -103,3 +103,15 @@ Beiträge sind willkommen! Wenn du Ideen für neue Features hast, Fehler findest
 ## 📜 Lizenz
 
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
+
+____
+
+Ganzseiten Screenshot:
+
+
+<img src="https://raw.githubusercontent.com/Digid0t/DigiDot_1/main/Lern-Oase%20%E2%80%93%20Wissensserien%20f%C3%BCr%20Kids.png" alt="Lern-Oase Vorschau" width="400">
+
+
+_____
+
+
