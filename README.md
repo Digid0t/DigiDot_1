@@ -108,4 +108,5 @@ Ganzseiten Screenshot:
 
 _____
 
+<img src="https://raw.githubusercontent.com/Digid0t/DigiDot_1/main/DigiDot_1_QR.png" alt="DigiDot_1 QR Code" width="300">
 
