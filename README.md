@@ -4,9 +4,9 @@ Lern Oase – Eine Idee für eine kindgerechte Sammlung spannender und lehrreich
 ---
 # Lern-Oase 🌱 – Wissensserien für Kids
 
-Link zum Coder - https://github.com/Digid0t/DigiDot_1/blob/main/Lern_Oase.html
+Link zum Coder - https://github.com/Digid0t/DigiDot_1/blob/main/index.html
 
-Link zum gehsoteten Code mit Git - https://raw.githack.com/Digid0t/DigiDot_1/main/Lern_Oase.html
+Link zum gehsoteten Code mit Git - https://raw.githack.com/Digid0t/DigiDot_1/main/index.html
 
 ____
 
